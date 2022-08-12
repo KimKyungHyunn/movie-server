@@ -14,7 +14,7 @@ CGV을 모델로 만든 백엔드 프로젝트
 <br>
 
 ## 사용 기술
-Java, Spring Boot, Spring Data JPA, QuqeryDSL, Junit5
+Java, Spring Boot, Spring Data JPA, QueryDSL, Junit5
 <br>
 <br>
 
